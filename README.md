@@ -1,3 +1,5 @@
+# Acerca de
+
 Este componente consta de una galeria con tapas de albumes que me gustan mucho.
 
 La proyección es seleccionar 50 discos y agregar información detallada de todos ellos, 
