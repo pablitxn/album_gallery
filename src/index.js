@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
 import './index.css';
+import Gallery from './components/album_gallery'
+
 
 ReactDOM.render(
-  <App />,
+  <Gallery />,
   document.getElementById('root')
 );
